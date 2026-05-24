@@ -1,15 +1,13 @@
 # Hello everyone 👋
 
-## I am a robotics engineer interested in such themes as:
+## I am a robotics engineer by the Universidade de Santiago de Compostela (USC Spain) interested in such themes as:
 - Computer Vision
 - Control Systems
 - Autonomous Vehicles
 - Machine Learning
 - Artificial Intelligence
 - Robotics Software
-
-### In this feed you'll find various different projects related to those themes.
-
+- 
 Some of the technologies and tools I usually work with include:
 
 - ROS / ROS2
@@ -29,16 +27,6 @@ Some of the technologies and tools I usually work with include:
 - Multi-agent systems
 - Sensor fusion
 - Embedded AI systems
-
-## Goals
-
-This GitHub is intended to:
-
-- Share personal and academic projects
-- Document experiments and implementations
-- Learn and improve through open-source collaboration
-- Build reproducible robotics environments
-
 
 ## Contact
 
